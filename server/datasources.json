@@ -1,0 +1,11 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mymongo": {
+    "url": "mongodb://localhost:27017/locatewalmart",
+    "name": "mymongo",
+    "connector": "mongodb"
+  }
+}
